@@ -1,3 +1,7 @@
 Hi Welcome to Git Classess
+<<<<<<< HEAD
 
 Today class is very good
+=======
+How is the class today
+>>>>>>> 6c95525072650faeb5a96b3a0df970a4ef28a46e
